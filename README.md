@@ -1,7 +1,7 @@
+<img src="/Assets/repository-open-graph-template.png" width= 100%>
+
 <h1>DIO-AI900-Module-01</h1>
 <p>First module challenge for ( DIO - Digital Innovation One) Bootcamp AI 900 (Machine Learning Training)</p>
-
-<img src="/Assets/repository-open-graph-template.png" width= 100%>
 
 <h2>Acess to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html<br>
 Acess to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/02-content-safety.html</h2>
